@@ -25,14 +25,14 @@ const initialPosters = [
   {
     id: 3,
     name: "Urban Dreams",
-    price: 549,
+    price: 599,
     image: "/urban-cityscape-poster.jpg",
     description: "Contemporary city vibes",
   },
   {
     id: 4,
     name: "Botanical Bliss",
-    price: 449,
+    price: 499,
     image: "/botanical-plant-leaves-poster.jpg",
     description: "Natural botanical art",
   },
