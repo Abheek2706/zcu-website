@@ -11,7 +11,7 @@ export default function AboutPage() {
         <div className="container mx-auto px-4 py-6">
           <div className="text-center">
             <h1 className="text-4xl md:text-5xl font-serif font-bold mb-2">
-              Z.C.U Posters
+              ZEFF Posters
             </h1>
             <p className="text-muted-foreground text-lg">
               Premium Posters for Your Space
@@ -52,7 +52,7 @@ export default function AboutPage() {
       <section className="py-20 md:py-32">
         <div className="container mx-auto px-4 text-center max-w-3xl">
           <h2 className="text-5xl md:text-7xl font-serif font-bold mb-6">
-            About Z.C.U Posters
+            About ZEFF Posters
           </h2>
           <p className="text-lg md:text-xl text-muted-foreground">
             Curating premium art for spaces that inspire creativity and comfort.
@@ -69,7 +69,7 @@ export default function AboutPage() {
                 Our Story
               </h3>
               <p className="text-muted-foreground leading-relaxed mb-4">
-                Z.C.U Posters was born from a passion for transforming ordinary
+                ZEFF Posters was born from a passion for transforming ordinary
                 spaces into extraordinary experiences. We believe art should be
                 accessible, expressive, and part of everyday living.
               </p>
@@ -144,7 +144,7 @@ export default function AboutPage() {
 
       {/* Footer */}
       <footer className="border-t py-8 text-center text-muted-foreground">
-        <p className="text-sm">© 2025 Z.C.U Posters. All rights reserved.</p>
+        <p className="text-sm">© 2025 ZEFF Posters. All rights reserved.</p>
       </footer>
     </div>
   )
